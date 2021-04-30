@@ -1,0 +1,35 @@
+C:\Users\Chant\Desktop\18030426孙晨晨第十一周\exer11_2\exer11_2\bin\Debug\exer11_2.exe.config
+C:\Users\Chant\Desktop\18030426孙晨晨第十一周\exer11_2\exer11_2\bin\Debug\exer11_2.exe
+C:\Users\Chant\Desktop\18030426孙晨晨第十一周\exer11_2\exer11_2\bin\Debug\exer11_2.pdb
+C:\Users\Chant\Desktop\18030426孙晨晨第十一周\exer11_2\exer11_2\obj\Debug\exer11_2.login.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十一周\exer11_2\exer11_2\obj\Debug\exer11_2.Properties.Resources.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十一周\exer11_2\exer11_2\obj\Debug\exer11_2.csproj.GenerateResource.Cache
+C:\Users\Chant\Desktop\18030426孙晨晨第十一周\exer11_2\exer11_2\obj\Debug\exer11_2.exe
+C:\Users\Chant\Desktop\18030426孙晨晨第十一周\exer11_2\exer11_2\obj\Debug\exer11_2.pdb
+C:\Users\Chant\Desktop\C SHARP\18030426孙晨晨第十一周\exer11_2\exer11_2\bin\Debug\exer11_2.exe.config
+C:\Users\Chant\Desktop\C SHARP\18030426孙晨晨第十一周\exer11_2\exer11_2\obj\Debug\exer11_2.exe
+C:\Users\Chant\Desktop\C SHARP\18030426孙晨晨第十一周\exer11_2\exer11_2\obj\Debug\exer11_2.pdb
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\bin\Debug\exer11_2.exe.config
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\obj\Debug\exer11_2.exe
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\obj\Debug\exer11_2.pdb
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\bin\Debug\exer11_2.exe
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\bin\Debug\exer11_2.pdb
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\obj\Debug\exer11_2.csprojResolveAssemblyReference.cache
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\obj\Debug\exer11_2.AboutForm.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\obj\Debug\exer11_2.login.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\obj\Debug\exer11_2.Properties.Resources.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\obj\Debug\exer11_2.csproj.GenerateResource.Cache
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\obj\Debug\exer11_2.StudentMsgFrm.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十二周\exer11_2\exer11_2\obj\Debug\exer11_2.CourseMsgFrm.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\bin\Debug\exer11_2.exe.config
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\obj\Debug\exer11_2.exe
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\obj\Debug\exer11_2.pdb
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\bin\Debug\exer11_2.exe
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\bin\Debug\exer11_2.pdb
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\obj\Debug\exer11_2.csprojResolveAssemblyReference.cache
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\obj\Debug\exer11_2.AboutForm.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\obj\Debug\exer11_2.CourseMsgFrm.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\obj\Debug\exer11_2.login.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\obj\Debug\exer11_2.Properties.Resources.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\obj\Debug\exer11_2.StudentMsgFrm.resources
+C:\Users\Chant\Desktop\18030426孙晨晨第十三周\exer11_2\exer11_2\obj\Debug\exer11_2.csproj.GenerateResource.Cache
